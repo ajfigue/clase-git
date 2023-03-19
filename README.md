@@ -6,4 +6,4 @@
 ## **Spring 1 🔁**
 ### - Historia de Usuario EP-001	
 ### - Historia de Tecnica EP-002
-![Historia técnica de Git](/Recursos/Imagenes/Historia tecnica.png)
+![Historia técnica de Git](clase-git/Recursos/Imagenes/Historia tecnica.png)
