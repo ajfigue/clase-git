@@ -5,4 +5,5 @@
 ### Soy estudiante de Ingenieria de Sistemas en Electiva de Profundización I, de la Corporación Universitaria Latinoameriaca (CUL).
 ## **Spring 1 🔁**
 ### - Historia de Usuario EP-001	
-### - Historia de Tecnica EP-002	
+### - Historia de Tecnica EP-002
+![Historia técnica de Git](/Recursos/Imagenes/Historia tecnica.png)
